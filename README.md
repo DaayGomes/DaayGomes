@@ -4,11 +4,7 @@
   <img style="border-radius:100px;" height="150" src="https://media.licdn.com/dms/image/D4D03AQEdTH-niAlXOw/profile-displayphoto-shrink_800_800/0/1692577491160?e=2147483647&v=beta&t=_wy27u2XlSMNWMa_9wi8VxCnGBfe3dU1outYU11Jeec"  />
 </div>
 
-Olá, sejam muito bem-vindos. Meu nome é Daiane, tenho 27 anos, sou de Ituiutaba-MG. Estudante de Biologia pela Universidade Federal de Uberlândia, com foco em Paleoecologia, iniciante na área de UX/UI. Tecnologia e arte são minhas paixões. 
-
-<div align="">
-  <img style="border-radius:100px;" height="150" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif"  />
-</div> Tenho dois gatos, essa é a informação mais importante dessa página e merece um destaque.
+Olá, sejam muito bem-vindos. Meu nome é Daiane, tenho 30 anos, sou de Ituiutaba-MG. Estudante de Biologia pela Universidade Federal de Uberlândia, com foco em Paleoecologia e agora estudando de Análise e Desenvolvimento de Sistemas pela UNIUBE. Tecnologia e arte são minhas paixões. 
 
 ## Conecte-se comigo 
 
